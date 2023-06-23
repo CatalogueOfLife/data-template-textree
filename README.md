@@ -39,5 +39,5 @@ whenever a commit to the repository happens. Configure:
 
 ## Git precommit hook
 You can configure a git ore commit hook to automatically update the issued date of your metadata.yaml.
-For this to work simply place the [pre-commit.hook](pre-commit.hook) file into your .git folder.
+For this to work simply place the [pre-commit.hook](pre-commit.hook) file into your `.git/hooks` folder.
 
