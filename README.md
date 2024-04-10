@@ -27,6 +27,8 @@ For example by using curl on the terminal like this:
 
 There are also online editors, e.g. https://truben.no/latex/bibtex/#
 
+Using Mendeley or Zotero can also be used to collaboratively manage references and export them to a BibTex file to be used in the repository.
+
 
 ## Github webhooks
 Once the dataset is created in ChecklistBank (CLB), Github webhooks can be used to automatically update the copy in ChecklistBank 
